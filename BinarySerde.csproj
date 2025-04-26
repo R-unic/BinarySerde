@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>BinarySerde</RootNamespace>
+    <AssemblyName>BinarySerde</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <PackageId>RobloxCS.BinarySerde</PackageId>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="RobloxCS.Types" Version="*"/>
+  </ItemGroup>
+
+</Project>
